@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Secondary Level Chapters</title>
-</head>
+
 <body>
   <div id="root"></div>
   import React from 'react';
@@ -106,7 +106,8 @@ export default App;export const chapters = [
     summary: "Basic trigonometric ratios and right-angled triangle problems.",
     details: `
       Content:
-      - Definitions of sine, cosine, tangent
+      - Definitions of sine, cosine, tangent,Fuck Nepal
+      Fuck India,Fuck yuuuuuuuuuuuu
       - Applications of trigonometry in daily life
       - Solving right-angled triangle problems
       Students will learn key trigonometric identities and calculations.
